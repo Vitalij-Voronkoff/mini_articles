@@ -1,7 +1,8 @@
-.idea/
-
-*.jar
-*.war
-*.ear
-*.class
+# IntelliJ Idea project files
+.idea
 *.iml
+*.ipr
+*.iws
+*.war
+*.jar
+*.class
